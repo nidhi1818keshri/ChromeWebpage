@@ -51,7 +51,7 @@ section header ul li button
     border-radius: 3px;
     cursor: pointer;
 }
-ul .rectangle : hover{
+ul .rectangle:hover{
     background-color: #444;
 }
 
